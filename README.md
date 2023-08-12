@@ -10,7 +10,7 @@ I am interested in technical writing. I have already learned some theory, and I 
 You can find samples of my writing in [this repository](https://github.com/OlaPom/tech-writing/tree/main):
 
 1. [WordPress plugins](https://github.com/OlaPom/tech-writing/blob/main/Wordpress%20plugins%20tutorial.md) - tutorial
-2. (more coming soon)
+2. [Electronic paper](https://github.com/OlaPom/tech-writing/blob/main/Electronic%20paper.md)
 
 ---
 
