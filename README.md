@@ -7,7 +7,7 @@ I am interested in technical writing. I have already learned some theory, and I 
 
 ---
 
-You can find samples of my writing in [this repository](https://github.com/OlaPom/tech-writing/tree/main):
+Some of my writing samples:
 
 1. [Memrise - User Guide](https://olapom.github.io/memrise/index.html)  
    Webhelp manual for Memrise application. Intended for end users. Built with Oxygen XML. Other tools: Lightshot, Screencastify.
