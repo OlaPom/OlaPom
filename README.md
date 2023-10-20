@@ -9,8 +9,12 @@ I am interested in technical writing. I have already learned some theory, and I 
 
 You can find samples of my writing in [this repository](https://github.com/OlaPom/tech-writing/tree/main):
 
-1. [WordPress plugins](https://github.com/OlaPom/tech-writing/blob/main/Wordpress%20plugins%20tutorial.md) - tutorial
-2. [Electronic paper](https://github.com/OlaPom/tech-writing/blob/main/Electronic%20paper.md)
+1. [Memrise - User Guide](https://olapom.github.io/memrise/index.html)  
+   Webhelp manual for Memrise application. Intended for end users. Built with Oxygen XML. Other tools: Lightshot, Screencastify.
+3. [WordPress plugins](https://github.com/OlaPom/tech-writing/blob/main/Wordpress%20plugins%20tutorial.md)  
+   A basic tutorial to using WordPress plugins. Intended for WP beginners. Written in Markdown.
+5. [How electronic paper works?](https://github.com/OlaPom/tech-writing/blob/main/Electronic%20paper.md)  
+   A short article about the fundamentals of electronic paper technology. Intended for general audience. Written in Markdown.
 
 ---
 
