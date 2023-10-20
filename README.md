@@ -13,7 +13,7 @@ You can find samples of my writing in [this repository](https://github.com/OlaPo
    Webhelp manual for Memrise application. Intended for end users. Built with Oxygen XML. Other tools: Lightshot, Screencastify.
 3. [WordPress plugins](https://github.com/OlaPom/tech-writing/blob/main/Wordpress%20plugins%20tutorial.md)  
    A basic tutorial to using WordPress plugins. Intended for WP beginners. Written in Markdown.
-5. [How electronic paper works?](https://github.com/OlaPom/tech-writing/blob/main/Electronic%20paper.md)  
+5. [How does electronic paper work?](https://github.com/OlaPom/tech-writing/blob/main/Electronic%20paper.md)  
    A short article about the fundamentals of electronic paper technology. Intended for general audience. Written in Markdown.
 
 ---
